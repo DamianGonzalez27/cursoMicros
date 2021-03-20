@@ -22,6 +22,10 @@ class UsuariosController
             [
                 'id' => 3,
                 'name' => 'test'
+            ],
+            [
+                'id' => 4,
+                'name' => 'Nuevo'
             ]
         ];
     }
